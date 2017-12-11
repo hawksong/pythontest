@@ -10,3 +10,4 @@ printinfo(10,20,303,40,50)
 
 printname( age=50, name="miki" )
 printname( name="miki" )
+print()
