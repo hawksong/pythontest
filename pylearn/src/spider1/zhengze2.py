@@ -3,6 +3,7 @@ Created on 2017年12月12日
 
 @author: user
 '''
+'''
 import re
  
 line = "Cats are smarter than dogs";
@@ -18,3 +19,4 @@ if matchObj:
    print ("search --> matchObj.group() : ", matchObj.group())
 else:
    print ("No match!!")
+'''
